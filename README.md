@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aym_a_n_g" target="blank"><img src="https://img.shields.io/twitter/follow/aym_a_n_g?logo=twitter&style=for-the-badge" alt="aym_a_n_g" /></a> </p>
 
-- 📝 I regularly  tweets about programming journey.
+- 📝 I regularly  tweets about #motivation and #computer Science.
 
-- 💬 Ask me about **react.js**
+- 💬 Ask me about **react.js**, **javaScript**
 
 - 📫 How to reach me **ayman-gamal61@hotmail.com**
 
