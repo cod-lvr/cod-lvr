@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayman Gamal</h1>
-<h3 align="center">A self-taught frontend developer</h3>
+<h3 align="center">frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cod-lvr&label=Profile%20views&color=0e75b6&style=flat" alt="cod-lvr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/aym_a_n_g" target="blank"><img src="https://img.shields.io/twitter/follow/aym_a_n_g?logo=twitter&style=for-the-badge" alt="aym_a_n_g" /></a> </p>
 
-- 📝 I regularly  tweets about #motivation and #computer Science.
+- 📝 I regularly  tweets about JavaScript and computer Science.
 
 - 💬 Ask me about **react.js**, **javaScript**
 
